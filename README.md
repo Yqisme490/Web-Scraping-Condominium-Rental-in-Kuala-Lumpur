@@ -4,4 +4,5 @@
 
 ## Steps
 
-See Mudah **Web Scrapping Desccription.pdf** for description.
+* See Mudah **Web Scrapping Desccription.pdf** for description.
+* Refer to **property_listings_url.xlsx** for example output.
